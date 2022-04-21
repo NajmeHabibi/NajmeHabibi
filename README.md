@@ -2,7 +2,7 @@
 ### Hi, I'm Najme! 👋
 
 For about the last two years, I have been studying and implementing Machine Learning models. In this journey, I started as an NLP intern at Wise Intelligent Agent company and then moved into an NLP researcher role at PART company. Before I become a fan of machine learning, I was a computer engineer student. Being encountered lots of software development projects in university, I decided that something between ML and Software development is my best fit. Therefore, I’m seeking an ML Engineer job right now. 
-Find out more about me & feel free to connect with me here: 
+
 
 <!--
 **NajmeHabibi/NajmeHabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
