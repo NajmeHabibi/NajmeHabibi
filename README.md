@@ -5,7 +5,7 @@ For about the last two years, I have been studying and implementing Machine Lear
 
 - 🌱 I’m currently learning Django RestFramework and VueJS 
 - 🤔 I’m looking for full-time positions as Machine Learning/Sofrware Engineer. 
-- 📫 How to reach me: [emial](najme76habibi@gmail.com) , [Linkdin](https://www.linkedin.com/in/najme-habibi-66233616b/)
+- 📫 How to reach me: [email](najme76habibi@gmail.com) , [LinkedIn](https://www.linkedin.com/in/najme-habibi-66233616b/)
 - ⚡ Fun fact: I like digital painting and here is some of [my artworks on instagram](https://www.instagram.com/nj_me76/)
 <!--
 **NajmeHabibi/NajmeHabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
