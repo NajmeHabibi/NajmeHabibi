@@ -3,7 +3,7 @@
 
 I graduated with a bachelor’s degree in Computer Engineering. For about the last two years, I have been studying and implementing Machine Learning models. In this journey, I started as an NLP intern at Wise Intelligent Agent company and then moved into an Machine Learning Engineer (NLP) role at [PART](https://www.linkedin.com/company/partdp-ai/) company!
 
-![ezgif-3-8878f062a1](https://user-images.githubusercontent.com/42568062/173987412-6ada4b6d-e3ed-4818-b92a-55e075bc47f7.gif)
+![ezgif-3-8878f062a1](https://user-images.githubusercontent.com/42568062/173987412-6ada4b6d-e3ed-4818-b92a-55e075bc47f7.gif| width=100)
 
 
 
