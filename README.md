@@ -1,7 +1,9 @@
 
 ### Hi, I'm Najme! 👋
 
-I graduated with a bachelor’s degree in Computer Engineering. For about the last two years, I have been studying and implementing Machine Learning models. In this journey, I started as an NLP intern at Wise Intelligent Agent company and then moved into an Machine Learning Engineer (NLP) role at [PART](https://www.linkedin.com/company/partdp-ai/) company. 
+I graduated with a bachelor’s degree in Computer Engineering. For about the last two years, I have been studying and implementing Machine Learning models. In this journey, I started as an NLP intern at Wise Intelligent Agent company and then moved into an Machine Learning Engineer (NLP) role at [PART](https://www.linkedin.com/company/partdp-ai/) co![3fd55118815892fed4459d52d4c9b0dc](https://user-images.githubusercontent.com/42568062/173976329-56c27d57-98d2-4d59-86ce-3d9c81e60010.gif)
+mpany. 
+![Uploading 3fd55118815892fed4459d52d4c9b0dc.gif…]()
 
 - 🌱 I’m currently learning Django RestFramework and VueJS 
 - 🤔 I’m looking for full-time positions as Machine Learning/Software Engineer. 
