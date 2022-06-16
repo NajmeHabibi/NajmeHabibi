@@ -3,6 +3,8 @@
 
 I graduated with a bachelor’s degree in Computer Engineering. For about the last two years, I have been studying and implementing Machine Learning models. In this journey, I started as an NLP intern at Wise Intelligent Agent company and then moved into an Machine Learning Engineer (NLP) role at [PART](https://www.linkedin.com/company/partdp-ai/) company!
 
+<img width="639" alt="Screen Shot 2022-06-15 at 10 41 34 PM" src="https://user-images.githubusercontent.com/42568062/173979711-ba82ce04-4462-408f-b3f2-5de83f387976.png">
+
 - 🌱 I’m currently learning Django RestFramework and VueJS 
 - 🤔 I’m looking for full-time positions as Machine Learning/Software Engineer. 
 - 📫 How to reach me: [Email](najme76habibi@gmail.com) , [LinkedIn](https://www.linkedin.com/in/najme-habibi-66233616b/)
