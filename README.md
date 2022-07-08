@@ -7,7 +7,7 @@ I graduated with a bachelor’s degree in Computer Engineering. For about the la
 
 
 - 🌱 I’m currently learning Django RestFramework and VueJS 
-- 🤔 I’m looking for full-time positions as Machine Learning/Software Engineer. 
+- 🤔 I’m looking for positions as Machine Learning/Software Engineer. 
 - 📫 How to reach me: [Email](najme76habibi@gmail.com) , [LinkedIn](https://www.linkedin.com/in/najme-habibi-66233616b/)
 - ⚡ Fun fact: I like digital painting, and here is some of [my artworks on instagram](https://www.instagram.com/nj_me76/)
 <!--
